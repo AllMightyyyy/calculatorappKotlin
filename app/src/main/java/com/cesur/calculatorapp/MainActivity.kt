@@ -97,7 +97,7 @@ class MainActivity : AppCompatActivity() {
 
             currentOperator = op
 
-            if (op == "xʸ") {
+            if (op == "^") {
                 isPowerOperation = true
                 historyTextView.text = "$firstOperand $op "
             } else {
