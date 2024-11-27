@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Background Color -->
+    <color name="background">#F5F5F5</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#000000</color>
+    <color name="button_text">#FFFFFF</color>
+
+    <!-- Button Background Colors -->
+    <color name="button_background">#757575</color> <!-- Gray for numbers and clear -->
+    <color name="button_function_background">#FFA500</color> <!-- Orange for functions like sqrt -->
+    <color name="button_operator_background">#FF5722</color> <!-- Deep Orange for operators -->
+    <color name="button_equal_background">#4CAF50</color> <!-- Green for equal button -->
+</resources>

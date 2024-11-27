@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Calculator</string>
+
+    <!-- Buttons -->
+    <string name="button_ce">CE</string>
+    <string name="button_c">C</string>
+    <string name="button_sqrt">√</string>
+    <string name="button_power">xʸ</string>
+    <string name="button_equal">=</string>
+    <string name="button_plus">+</string>
+    <string name="button_minus">-</string>
+    <string name="button_multiply">*</string>
+    <string name="button_divide">/</string>
+    <string name="button_0">0</string>
+    <string name="button_1">1</string>
+    <string name="button_2">2</string>
+    <string name="button_3">3</string>
+    <string name="button_4">4</string>
+    <string name="button_5">5</string>
+    <string name="button_6">6</string>
+    <string name="button_7">7</string>
+    <string name="button_8">8</string>
+    <string name="button_9">9</string>
+    <string name="button_dot">.</string>
+    <string name="button_plus_minus">±</string>
+    <string name="button_sin">sin</string>
+    <string name="logo_desc">Calculator Logo</string>
+
+    <!-- Placeholders -->
+    <string name="history_placeholder">History</string>
+    <string name="current_placeholder">0</string>
+
+    <!-- Error Messages -->
+    <string name="error_division_by_zero">Cannot divide by zero</string>
+    <string name="error_invalid_expression">Invalid Expression</string>
+    <string name="error_invalid_sqrt">Invalid input for square root</string>
+</resources>
